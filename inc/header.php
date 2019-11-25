@@ -4,11 +4,11 @@
 				<div class="info">
 					<div class="phn-num float-left">
 						<i class="fa fa-phone float-left"></i>
-						<p>(000)  123  288  456 </p>
+						<p>+263 77 275 8455 </p>
 					</div>
 					<div class="mail-id float-left">
 						<i class="fa fa-envelope-o float-left"></i>
-						<p><a href="#">email here </a></p>
+						<p><a href="mailto:eltonbryce@gmail.com">eltonbryce@gmail.com </a></p>
 					</div>
 				</div>
 			</div>
@@ -46,17 +46,18 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-4 col-lg-3">
-				<div class="log-link">
-					<p>Welcome</p>
+				<!-- <div class="log-link"> -->
+				<div class="logo">
+				<a href="index.html">
+						<img src="img/musikahustlelogo.png" alt="" />
+						
+					</a>
 					
 				</div>
 			</div>
 			<div class="col-sm-4 col-lg-6">
 				<div class="logo text-center">
-					<a href="index.html">
-						<img src="img/header/logo.png" alt="" />
-						<h4>Musika Hustle</h4>
-					</a>
+				
 				</div>
 			</div>
 			<div class="col-sm-4 col-lg-3">

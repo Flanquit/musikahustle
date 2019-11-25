@@ -35,7 +35,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/1.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/1.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -46,7 +46,8 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<!-- <a href="#">Product Name Demo</a> -->
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -68,7 +69,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/2.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/2.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -79,7 +80,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -101,7 +102,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/3.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/3.jpg" alt="product" /></a>
 							<div class="hot-pro"><img src="img/hot.png" alt="" /></div>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
@@ -113,7 +114,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -135,7 +136,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/4.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/4.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -146,7 +147,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -168,7 +169,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/5.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/5.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -179,7 +180,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -201,7 +202,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/6.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/6.jpg" alt="product" /></a>
 							<div class="new-pro"><img src="img/new.png" alt="" /></div>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
@@ -213,7 +214,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -235,7 +236,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/7.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/7.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -246,7 +247,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -268,7 +269,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/8.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/8.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -279,7 +280,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -301,7 +302,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/9.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/9.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -312,7 +313,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -334,7 +335,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/10.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/10.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -345,7 +346,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -367,7 +368,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/1.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/1.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -378,7 +379,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -400,7 +401,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/2.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/2.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -411,7 +412,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -433,7 +434,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/3.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/3.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -444,7 +445,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -466,7 +467,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/4.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/4.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -477,7 +478,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -499,7 +500,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/5.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/5.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -510,7 +511,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">
@@ -532,7 +533,7 @@
 					<div class="product-item fix">
 						<div class="product-img-hover">
 							<!-- Product image -->
-							<a href="product-details.html" class="pro-image fix"><img src="img/product/6.jpg" alt="product" /></a>
+							<a href="#" class="pro-image fix"><img src="img/product/6.jpg" alt="product" /></a>
 							<!-- Product action Btn -->
 							<div class="product-action-btn">
 								<a class="quick-view" href="#"><i class="fa fa-search"></i></a>
@@ -543,7 +544,7 @@
 						<div class="pro-name-price-ratting">
 							<!-- Product Name -->
 							<div class="pro-name">
-								<a href="product-details.html">Product Name Demo</a>
+								<a href="#">Product Name Demo</a>
 							</div>
 							<!-- Product Ratting -->
 							<div class="pro-ratting">

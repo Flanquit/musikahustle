@@ -21,10 +21,13 @@
 		
 			<div class="col-sm-6">
 				<div class="about-text">
-					<h2>WELCOME TO <span>Legit17</span></h2>
+					<h2>WELCOME TO <span>MusikaHustle</span></h2>
 					<h3>ONLINE STORE</h3>
-					<p class="about-margin">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation, conse ctetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation, consectetur adipiscing elit,ed</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation, conse ctetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore</p>
+					<p class="about-margin">is a global marketplace where all your fashion needs and statements are met at a very reasonable price range. Meeting the needs of a diverse clientele and providing premium shopping experience for the fashion conscious customer.</p>
+					<p>This platform is a brainchild of a Zimbabwean fashion icon and music producer  and his team of fashion and social consultants based in USA who is all too familiar with the nerve racking experience of not finding a specific fashion statement or finding it at an exorbitant pricee</p>
+
+					<p>
+Our target market is Africa and the world at large.</p>
 				</div>
 			</div>
 			<div class="col-sm-6">

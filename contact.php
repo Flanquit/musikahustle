@@ -22,21 +22,26 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<h4>Contact Us</h4>
-						<p>perspiciatis unde omnis iste natus error sit voluptatem accm doloremque antium, totam rem aperiam, eaque ipsa perspiciatis unde omnis iste  aque ipsa perspiciatis unde omnis iste </p>
+						<p>We aim to provide first class premium service in selecting, purchasing and delivery of fashion statements to our fashion conscious customers </p>
 						<div class="info-single">
 							<i class="fa fa-map-marker"></i>
-							<p>street,  harare</p>
-							<p>cold comfort town </p>
+							
+
+
+
+
+							<p>street,  Some Name Ave</p>
+							<p>New York City </p>
 						</div>
 						<div class="info-single">
 							<i class="fa fa-phone"></i>
-							<p>+012  456  456  456</p>
-							<p>+012  245 783 237</p>
+							<p>+263 77 275 8455</p>
+							<p>+263 77 275 8455</p>
 						</div>
 						<div class="info-single">
 							<i class="fa fa-globe"></i>
-							<a href="#">email here .com</a>
-							<a href="#">legit17.com</a>
+							<a href="#">eltonbryce@gmail.com</a>
+						
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -132,6 +137,7 @@
 </script>	
 <!-- Main JS -->
 <script type="text/javascript" src="js/main.js"></script>
+<script src="//code.tidio.co/kc9d6ipp2a9z8xelakqk8e4ptflkgoxl.js" async> </script>
 
 </body>
 

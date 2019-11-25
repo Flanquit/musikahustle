@@ -1,15 +1,9 @@
 /*------------------------------------------------------------------
-	Template Name:	Olongker - eCommerce Bootstrap Template
-    Template URI: http://bootexperts.com
-    Description: Bootstrap eCommerce Template
-    Author: BootExperts
-    Author URI: http://bootexperts.com
-    License: 
-    License URI: 
-    Version: 1.0
+	Template Name:	alpham.co.zw - eCommerce Bootstrap 
+   
     
     All files, unless otherwise stated, are released under the GNU General Public License
-    version 3.0 (http://www.your-site.com/index.html)
+
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
@@ -101,27 +95,28 @@ img {
   margin-bottom: 50px;
 }
 .section-title h2 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
 }
 .underline {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   height: 2px;
   margin: 0 auto;
   width: 100px;
 }
 .overlay {
-  background:rgb(168, 81, 138 ,0.8); 
+  background:rgb(206, 37, 54 ,0.8); 
+  
 }
 .owl-dots {
   text-align: center;
   margin-bottom: 30px;
 }
 .owl-dot {
-  border: 1px solid #E6258B;
+  border: 1px solid #B3991D;
   display: inline-block;
   height: 10px;
   margin: 0 3px;
@@ -131,7 +126,7 @@ img {
   width: 30px;
 }
 .owl-dot.active {
-  background: #E6258B;
+  background: #B3991D;
 }
 .owl-nav {
   margin-right: -5px;
@@ -142,8 +137,8 @@ img {
   top: 0;
 }
 .owl-nav > div {
-  border: 2px solid #E6258B;
-  color: #E6258B;
+  border: 2px solid #B3991D;
+  color: #B3991D;
   display: inline-block;
   font-size: 22px;
   height: 36px;
@@ -155,14 +150,14 @@ img {
   width: 36px;
 }
 .owl-nav > div:hover {
-  background: #E6258B;
+  background: #B3991D;
   color: #fff;
 }
 .owl-nav > div i{}
 .owl-nav .owl-prev{}
 .owl-nav .owl-next{}
 #scrollUp {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: 3px solid #fff;
   bottom: 65px;
   color: #fff;
@@ -179,7 +174,7 @@ img {
 -------------------------------------*/
 /*----- 3.1 Header Top -----*/
 .header-top {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
 }
 .info, .socials {
   margin-top: 17px;
@@ -224,7 +219,7 @@ img {
 }
 .socials a:hover {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
 }
 /*----- 3.2 Top Menu -----*/
 #top-menu > ul {
@@ -249,7 +244,7 @@ img {
 }
 #top-menu > ul > li:hover > a {
   background:#fff;
-  color:#E6258B;
+  color:#B3991D;
 }
 #top-menu > ul li > ul {
   background: #fff none repeat scroll 0 0;
@@ -278,7 +273,7 @@ img {
   transition: all 0.3s ease 0s;
   padding: 5px 10px;
 }
-#top-menu > ul > li > ul li a:hover{color:#E6258B;}
+#top-menu > ul > li > ul li a:hover{color:#B3991D;}
 
 #top-menu > ul >  li:hover > ul {
   opacity: 1;
@@ -301,7 +296,7 @@ img {
   letter-spacing: 1px;
 }
 .log-link h5 a {
-  color: #E6258B;
+  color: #B3991D;
   text-decoration: none;
 }
 .logo a {
@@ -309,7 +304,11 @@ img {
   text-decoration: none;
   text-align: right;
 }
-.logo a img{}
+.logo a img{
+  width: 50%;
+  position: absolute;
+  margin-top:-15%;
+}
 .logo a h4 {
   color: #414141;
   font-size: 14px;
@@ -323,7 +322,7 @@ img {
   display: inline-block;
 }
 .cart-info > a:hover, .cart-info > a:focus {
-  color: #E6258B;
+  color: #B3991D;
 }
 .cart-info > a h5 {
   float: left;
@@ -392,7 +391,7 @@ img {
   text-transform: uppercase;
 }
 .header-cart-pro .content a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .header-cart-pro .content span {
   display: block;
@@ -410,12 +409,12 @@ img {
   color: #666;
 }
 .header-cart-pro .delete:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .header-button-price{}
 .header-button-price a {
-  border: 1px solid #E6258B;
-  color: #E6258B;
+  border: 1px solid #B3991D;
+  color: #B3991D;
   display: block;
   float: left;
   font-size: 13px;
@@ -424,7 +423,7 @@ img {
   font-weight: 600;
 }
 .header-button-price a:hover {
-  background: #E6258B;
+  background: #B3991D;
   color: #fff;
 }
 .header-button-price a i {
@@ -488,7 +487,7 @@ img {
   transition: all 0.3s ease 0s;
 }
 .main-menu > nav > ul > li > a:hover, .main-menu > nav > ul > li > a:focus {
-  color:#E6258B;
+  color:#B3991D;
 }
 .sub-menu, .mega-menu {
   background: #fff none repeat scroll 0 0;
@@ -522,7 +521,7 @@ img {
   text-transform: uppercase;
 }
 .sub-menu > li > a:hover, .sub-menu > li > a:focus  {
-  color:#E6258B;
+  color:#B3991D;
   padding-left: 5px;
 }
 .mega-menu {
@@ -568,7 +567,7 @@ img {
   text-transform: uppercase;
 }
 .mega-menu .column ul li a:hover, .mega-menu .column ul li a:focus  {
-  color:#E6258B;
+  color:#B3991D;
   padding-left: 5px;
 }
 .mega-menu .column > a {
@@ -629,7 +628,7 @@ img {
   padding-right: 0;
 }
 .main-menu-2 {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   padding: 9px 0;
 }
 .main-menu-2 > nav {}
@@ -656,7 +655,7 @@ img {
 .main-menu-2 > nav > ul > li > a:hover, .main-menu-2 > nav > ul > li > a:focus {
   padding-left: 30px;
   background: #fff;
-  color: #E6258B;
+  color: #B3991D;
 }
 .sub-menu-2, .mega-menu-2 {
   left: 100%;
@@ -678,7 +677,7 @@ img {
   margin-bottom: 15px;
 }
 .mean-container .mean-bar, .mean-container .mean-nav, .mean-container .mean-nav ul li a.mean-expand:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
 }
 /*----- 3.5 Slider Area -----*/
 .slider-wrap {
@@ -708,7 +707,7 @@ img {
   margin-bottom: 20px;
 }
 .cap-title h1 {
-  background: rgb(168, 81, 138) none repeat scroll 0 0;
+  background: rgb(206, 37, 54) none repeat scroll 0 0;
   color: #ebebeb;
   display: inline-block;
   font-size: 50px;
@@ -722,7 +721,7 @@ img {
 }
 .cap-dec h2 {
   background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   display: inline-block;
   font-size: 45px;
   font-weight: 500;
@@ -734,7 +733,7 @@ img {
   overflow: hidden;
 }
 .cap-readmore a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #7ECBDB none repeat scroll 0 0;
   color: #fff;
   font-size: 16px;
   font-weight: 700;
@@ -760,13 +759,13 @@ img {
   width: 30px;
 }
 .nivo-control.active {
-  background: #E6258B;
+  background: #B3991D;
 }
 .slider-progress{
 	position:absolute;
 	top:0;
 	left:0;
-	background-color: #E6258B;
+	background-color: #B3991D;
 	height:5px;
 	-webkit-animation: timebar 5000ms ease-in-out;
 	-moz-animation: timebar 5000ms ease-in-out;
@@ -820,7 +819,7 @@ img {
   position: relative;
 }
 .pro-image::before {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -860,7 +859,7 @@ img {
   margin-bottom: 0;
 }
 .product-action-btn a:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 .product-action-btn a.quick-view {
@@ -892,14 +891,14 @@ img {
   font-weight: 500;
 }
 .pro-name a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .pro-ratting {
   float: left;
 }
 .pro-ratting i{}
 .pro-ratting i.on {
-  color: #E6258B;
+  color: #B3991D;
 }
 .pro-price {
   float: right;
@@ -1042,14 +1041,14 @@ img {
   text-transform: uppercase;
 }
 .tabs-list > li.active > a, .tabs-list > li > a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .tab-pane .owl-hidden {
   opacity: 1;
 }
 /*----- 3.9 Magic Area -----*/
 .magic-area {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
 }
 .magic-area .image {
   padding: 0;
@@ -1095,7 +1094,7 @@ img {
   width: 100%;
 }
 .magic-area .content {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   padding: 30px;
 }
 .magic-area .content h2 {
@@ -1118,7 +1117,7 @@ img {
 }
 .magic-area .content a {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   display: inline-block;
   font-weight: 600;
   font-size: 14px;
@@ -1139,7 +1138,7 @@ img {
   margin-bottom: 30px;
 }
 .single-blog .date {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   height: 60px;
   left: 0;
@@ -1217,7 +1216,7 @@ img {
 }
 .single-blog .content h2 .title {}
 .single-blog .content h2 .title:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .meta {
   margin-bottom: 10px;
@@ -1238,7 +1237,7 @@ img {
   margin-right: 20px;
 }
 .meta a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .meta i {
   margin-right: 5px;
@@ -1250,7 +1249,7 @@ img {
   margin-bottom: 20px;
 }
 .read-more {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 12px;
@@ -1269,7 +1268,7 @@ img {
   text-align: center;
 }
 .fun-factor-in {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border-radius: 10px;
   height: 60px;
   margin: 20px auto 40px;
@@ -1285,7 +1284,7 @@ img {
   transform: rotate(-45deg);
 }
 .fun-factor-out {
-  border: 1px solid #E6258B;
+  border: 1px solid #B3991D;
   border-radius: 10px;
   height: 70px;
   -webkit-transform: rotate(90deg);
@@ -1347,7 +1346,7 @@ img {
 }
 .testimonial-slider .owl-nav > div:hover {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
 }
 /*----- 3.13 Brand Area -----*/
 .brand-area {}
@@ -1366,7 +1365,7 @@ img {
   text-align: center;
 }
 .support i {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 40px;
   margin-bottom: 20px;
 }
@@ -1416,9 +1415,9 @@ img {
   margin-right: 14px;
 }
 .single-contact .icon i {
-  border: 1px solid #E6258B;
+  border: 1px solid #B3991D;
   border-radius: 50%;
-  color: #E6258B;
+  color: #B3991D;
   font-size: 20px;
   height: 40px;
   line-height: 38px;
@@ -1437,13 +1436,13 @@ img {
   color: #ccc;
 }
 .single-contact .details a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .footer-links {
   margin-top: 95px;
 }
 .footer-links > h2 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
@@ -1481,7 +1480,7 @@ img {
   width: 80%;
 }
 .footer-links ul li a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .footer-newslater {
   margin-top: 30px;
@@ -1524,7 +1523,7 @@ img {
   transition: all 0.3s ease 0s;
 }
 .footer-newslater form .submit:hover {
-    background: #E6258B;
+    background: #B3991D;
 }
 /*----- 3.16 Footer Area -----*/
 .footer-area {
@@ -1541,7 +1540,7 @@ img {
   color: #252525;
 }
 .copy-right p a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .payment {
   text-align: right;
@@ -1588,7 +1587,7 @@ img {
   position: relative;
 }
 .trendy-item > a::before {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1611,7 +1610,7 @@ img {
   margin: 10px 0;
 }
 .trendy-item > h4 > a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .trendy-item h5 {}
 /*-----------------
@@ -1654,7 +1653,7 @@ img {
   width: 41px;
 }
 .view-mode > a.active, .view-mode > a:hover{
-  background: #E6258B;
+  background: #B3991D;
   color: #fff;
 }
 .view-mode > a i{}
@@ -1723,7 +1722,7 @@ img {
 }
 .pagination ul li a, .pagination ul li span {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   display: block;
   font-weight: 600;
   height: 30px;
@@ -1737,7 +1736,7 @@ img {
 .pagination ul li span{}
 .pagination ul li.active{}
 .pagination ul li.active span, .pagination ul li a:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 /*-----------------------
@@ -1756,7 +1755,7 @@ img {
   position: relative;
 }
 .list-pro-image a::before {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1783,7 +1782,7 @@ img {
   margin-top: 10px;
 }
 .list-pro-des .pro-name:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .list-pro-des .pro-ratting {
   float: left;
@@ -1817,7 +1816,7 @@ img {
   width: 40px;
 }
 .list-actions-btn a:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 .list-actions-btn a i{}
@@ -1827,7 +1826,7 @@ img {
 }
 .sin-shop-sidebar h2 {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 15px;
@@ -1889,11 +1888,11 @@ img {
   margin-top: 10px;
 }
 #slider-range .ui-slider-range {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   height: 6px;
 }
 #slider-range .ui-slider-handle {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: 0 none;
   border-radius: 0;
   height: 15px;
@@ -1922,7 +1921,7 @@ img {
   text-transform: uppercase;
 }
 .sin-shop-sidebar ul li a:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   padding-left: 30px;
 }
@@ -1945,8 +1944,8 @@ img {
   text-transform: uppercase;
 }
 .sin-shop-sidebar.shop-tags ul li a:hover, #tags a:hover, #custom-tags a:hover {
-  background: #E6258B;
-  border: 1px solid #E6258B;
+  background: #B3991D;
+  border: 1px solid #B3991D;
   color: #fff ;
 }
 /*-----------------------
@@ -1959,7 +1958,7 @@ img {
   margin-bottom: 10px;
 }
 .about-title span, .about-text span {
-  color: #E6258B;
+  color: #B3991D;
 }
 .about-title h3 {
   font-size: 24px;
@@ -1973,10 +1972,10 @@ img {
   font-weight: 400;
   margin-bottom: 15px;
 }
-.about-text p span{color:#E6258B;}
+.about-text p span{color:#B3991D;}
 .about-text blockquote {
   background: #fff none repeat scroll 0 0;
-  border-color: #E6258B;
+  border-color: #B3991D;
 }
 .about-text blockquote p {
   font-size: inherit;
@@ -2001,7 +2000,7 @@ img {
   width: 100%;
 }
 .designer-text {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   display: block;
   height: 100%;
   left: 0;
@@ -2052,7 +2051,7 @@ img {
 }
 .designer-socials a:hover {
   background:#fff;
-  color:#E6258B;
+  color:#B3991D;
 }
 .designer-socials a i {}
 /*-----------------------
@@ -2104,7 +2103,7 @@ h4.heading {
   text-transform: uppercase;
 }
 .the-comment .comment-box .comment-author p::before {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border-radius: 50%;
   bottom: 3px;
   content: "";
@@ -2115,7 +2114,7 @@ h4.heading {
 }
 .the-comment .comment-box .comment-author a {}
 .the-comment .comment-box .comment-author a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .the-comment .comment-box .comment-author a::before {
   color: #363636;
@@ -2158,7 +2157,7 @@ h4.heading {
   width: 100%;
 }
 #commentform .form-submit #submit {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: 0 none;
   color: #fff;
   font-size: 12px;
@@ -2198,7 +2197,7 @@ h4.heading {
   padding: 10px 15px;
 }
 .single-sidebar ul > li > a:hover {
-  color: #E6258B;
+  color: #B3991D;
   padding-left: 25px;
 }
 .resent-post {
@@ -2252,7 +2251,7 @@ h4.heading {
   font-weight: 500;
 }
 .resent-post .content h5 a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .resent-post .content span{}
 .resent-post .content span i {
@@ -2271,8 +2270,8 @@ h4.heading {
   padding: 3px 10px;
 }
 .tagcloud a:hover {
-  background: #E6258B none repeat scroll 0 0;
-  border: 1px solid #E6258B;
+  background: #B3991D none repeat scroll 0 0;
+  border: 1px solid #B3991D;
   color: #fff;
 }
 /*-----------------------
@@ -2312,9 +2311,9 @@ h4.heading {
   text-align: center;
 }
 .info-single i {
-  border: 1px solid #E6258B;
+  border: 1px solid #B3991D;
   border-radius: 50%;
-  color: #E6258B;
+  color: #B3991D;
   float: left;
   font-size: 20px;
   height: 40px;
@@ -2339,7 +2338,7 @@ h4.heading {
 }
 .contact-page-2 .info-single a {}
 .info-single a:hover{
-	color: #E6258B;
+	color: #B3991D;
 }
 .contact-form {
   margin-top: 70px;
@@ -2372,7 +2371,7 @@ h4.heading {
   margin-bottom: 20px;
 }
 .contact-form .submit {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: 0 none;
   color: #fff;
   float: right;
@@ -2468,14 +2467,14 @@ h4.heading {
   line-height: 18px;
 }
 .remember > a {
-  color: #E6258B;
+  color: #B3991D;
   float: right;
   font-size: 12px;
   font-weight: 500;
   text-decoration:none;
 }
 .login input[type="submit"] {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   display: inline-block;
@@ -2496,7 +2495,7 @@ h4.heading {
 	11. Coming Soon
 -------------------------*/
 .comming-soon-top {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   height: 60px;
   width: 100%;
 }
@@ -2508,13 +2507,13 @@ h4.heading {
   padding-bottom: 60px;
 }
 .comming-soon-text h2, .comming-soon-text h3 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 40px;
   font-weight: 700;
   line-height: 50px;
 }
 .come-soon h4 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 32px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -2525,13 +2524,13 @@ h4.heading {
   width: 250px;
 }
 .come-bottom {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   height: 1px;
   margin-top: 10px;
   width: 100px;
 }
 .come-soon i {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 20px;
   margin: 0 10px;
 }
@@ -2540,9 +2539,9 @@ h4.heading {
   margin-top: 30px;
 }
 .come-socials a {
-  border: 2px solid #E6258B;
+  border: 2px solid #B3991D;
   border-radius: 50%;
-  color: #E6258B;
+  color: #B3991D;
   display: inline-block;
   font-size: 14px;
   height: 30px;
@@ -2552,11 +2551,11 @@ h4.heading {
 }
 .come-socials a i {}
 .come-socials a:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 #come-subscribe {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   font-size: 22px;
   padding: 10px 25px;
@@ -2623,7 +2622,7 @@ h4.heading {
   margin-bottom: 50px;
 }
 .not-found-text a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   font-size: 20px;
   font-weight: 700;
   padding: 20px 30px;
@@ -2660,7 +2659,7 @@ h4.heading {
   transition: all 0.3s ease 0s;
 }
 .portfolio-filter .filter.active, .portfolio-filter .filter:hover {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 .port-wrap {
@@ -2682,7 +2681,7 @@ h4.heading {
   opacity: 1;
 }
 .port-wrap .hover i {
-  background: #E6258B;
+  background: #B3991D;
   color: #fff;
   height: 40px;
   font-size: 14px;
@@ -2705,7 +2704,7 @@ h4.heading {
 }
 #portfolio .mix h2 {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   display: block;
   font-size: 20px;
   font-weight: 600;
@@ -2716,7 +2715,7 @@ h4.heading {
 	14. FAQ Page
 -------------------------*/
 #faqs .panel-heading a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 /*-----------------------
@@ -2755,7 +2754,7 @@ h4.heading {
   float: right;
 }
 .shop-details > h3 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 15px;
   font-weight: 500;
   margin-bottom: 10px;
@@ -2838,7 +2837,7 @@ h4.heading {
 }
 .action-btn a {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
   display: inline-block;
   font-size: 16px;
   height: 40px;
@@ -2848,7 +2847,7 @@ h4.heading {
   width: 40px;
 }
 .action-btn a:hover {
-  background:#E6258B;
+  background:#B3991D;
   color:#fff;
 } 
 .product-page .description {
@@ -2869,7 +2868,7 @@ h4.heading {
 }
 .product-nav  > li > a:hover, .product-nav  > li.active > a, .product-nav  > li.active > a:focus, .product-nav  > li.active > a:hover {
   background: transparent;
-  color: #E6258B;
+  color: #B3991D;
 }
 .description .tab-content {
   background: #fff none repeat scroll 0 0;
@@ -2891,7 +2890,7 @@ h4.heading {
 }
 .cart-table .table-title th {
   border-bottom: 0 none !important;
-  color: #E6258B;
+  color: #B3991D;
   font-size: 14px;
   font-weight: 600;
   padding: 10px 15px;
@@ -2986,10 +2985,10 @@ h4.heading {
 }
 .cart-table a{}
 .cart-table a:hover {
-  color: #E6258B;
+  color: #B3991D;
 }
 .add-to-cart {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   font-weight: 600;
   padding: 7px 10px;
@@ -3074,7 +3073,7 @@ h4.heading {
   margin-left: 80px;
 }
 .total h6 {
-  color: #E6258B;
+  color: #B3991D;
   font-size: 18px;
   font-weight: 700;
 }
@@ -3082,7 +3081,7 @@ h4.heading {
   margin-left: 68px;
 }
 #procedto {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   border: 0 solid;
   color: #fff;
   float: right;
@@ -3129,7 +3128,7 @@ h4.heading {
   text-transform: uppercase;
 }
 .panel-heading a.active {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
 }
 .panel-heading a.collapsed {
@@ -3138,10 +3137,10 @@ h4.heading {
 }
 .panel-heading a.active span {
   background: #fff none repeat scroll 0 0;
-  color: #E6258B;
+  color: #B3991D;
 }
 .panel-heading a span, .panel-heading a.collapsed span {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   height: 24px;
@@ -3192,7 +3191,7 @@ h4.heading {
   font-weight: 500;
 }
 .checkout-method a, .bill-info a, .pay a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 12px;
@@ -3335,7 +3334,7 @@ h4.heading {
   margin-bottom: 16px;
 }
 .information a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 12px;
@@ -3393,7 +3392,7 @@ h4.heading {
   margin-left: 92px;
 }
 .final-total a {
-  background: #E6258B none repeat scroll 0 0;
+  background: #B3991D none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -3436,6 +3435,6 @@ h4.heading {
   letter-spacing: 1px;
 }
 .checkout-right li a:hover {
-  color: #E6258B;
+  color: #B3991D;
   padding-left: 10px;
 }
